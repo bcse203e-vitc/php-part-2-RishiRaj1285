@@ -1,0 +1,4 @@
+Laptop,55000
+Mouse,500
+Keyboard,1200
+Phone,20000
