@@ -1,5 +1,5 @@
 <?php
-$lines = file("Q2.txt", FILE_IGNORE_NEW_LINES);
+$lines = file("products.txt", FILE_IGNORE_NEW_LINES);
 $products = [];
 foreach($lines as $line){
     list($name, $price) = explode(",", $line);
